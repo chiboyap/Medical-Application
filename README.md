@@ -1,4 +1,3 @@
 # Medical-Application
 
 próba
-elo
