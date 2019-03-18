@@ -6,6 +6,7 @@ namespace Biomed
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("proba");
             Console.WriteLine("Hello World!");
         }
         //blabla
