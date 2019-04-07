@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bio-system",
+    "\\bio-system\\Data"
   ],
+  "SelectedNode": "\\bio-system\\Data\\Model.cs",
   "PreviewInSolutionExplorer": false
 }
